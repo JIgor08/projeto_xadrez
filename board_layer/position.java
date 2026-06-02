@@ -1,5 +1,5 @@
 package board_layer;
-public class position {
+public class Position {
     private int row;
     private int column;
 
@@ -7,6 +7,5 @@ public class position {
         this.row = row;
         this.column = column;
     }
-
     
 }
