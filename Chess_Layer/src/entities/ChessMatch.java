@@ -17,7 +17,7 @@ public class ChessMatch {
 
    public boolean[][] possibleMoves(ChessPosition sourcePosition){}
 
-   public ChessPiece performChessMove(ChessPosition sourceposition; Chesspositon targetPosition ) {}
+   public ChessPiece performChessMove(ChessPosition sourceposition, Chesspositon targetPosition ){}
    
    public ChessPiece  replacePromotePiece(String type); 
    

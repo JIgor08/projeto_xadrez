@@ -8,11 +8,11 @@ public class ChessPiece {
 	Color color;
 	int moveCount;
 	
-    public ChessPosition getChessPosition() {}
+    public ChessPosition getChessPosition(){}
     
     protected boolean isThereOponnetPiece(Position position) {}
     
-    protected void increaseMoveCount() {}
+    protected void increaseMoveCount(){}
 
-    protected void decreaseMovesCount()
+    protected void decreaseMovesCount(){}
 }
