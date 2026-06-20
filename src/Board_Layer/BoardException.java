@@ -1,4 +1,4 @@
-package boardgame;
+package Board_Layer;
 
 public class BoardException extends RuntimeException {
     private static final long serialVersionUID = 1L;

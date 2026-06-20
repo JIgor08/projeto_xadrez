@@ -1,4 +1,4 @@
-package chess;
+package Chess_Layer;
 
 public class ChessException extends RuntimeException {
     private static final long serialVersionUID = 1L;

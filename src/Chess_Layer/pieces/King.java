@@ -1,10 +1,10 @@
-package chess.pieces;
+package Chess_Layer.pieces;
 
-import boardgame.Board;
-import boardgame.Position;
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.Color;
+import Board_Layer.Board;
+import Board_Layer.Position;
+import Chess_Layer.ChessMatch;
+import Chess_Layer.ChessPiece;
+import Chess_Layer.Color;
 
 public class King extends ChessPiece {
     private ChessMatch chessMatch;

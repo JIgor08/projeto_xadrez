@@ -1,4 +1,4 @@
-package boardgame;
+package Board_Layer;
 
 public abstract class Piece {
     protected Position position;

@@ -1,13 +1,13 @@
-package chess;
+package Chess_Layer;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
 
-import boardgame.Board;
-import boardgame.Piece;
-import boardgame.Position;
-import chess.pieces.*;
+import Board_Layer.Board;
+import Board_Layer.Piece;
+import Board_Layer.Position;
+import Chess_Layer.pieces.*;
 
 public class ChessMatch {
     private Board board;

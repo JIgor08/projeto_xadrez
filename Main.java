@@ -1,11 +1,11 @@
 import java.util.Scanner;
 
-import chess.ChessMatch;
-import chess.ChessPiece;
-import chess.ChessPosition;
-import chess.Color;
+import Chess_Layer.ChessMatch;
+import Chess_Layer.ChessPiece;
+import Chess_Layer.ChessPosition;
+import Chess_Layer.Color;
 
-public class main {
+public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         ChessMatch chessMatch = new ChessMatch();

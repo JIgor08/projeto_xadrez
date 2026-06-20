@@ -1,9 +1,9 @@
-package chess.pieces;
+package Chess_Layer.pieces;
 
-import boardgame.Board;
-import boardgame.Position;
-import chess.ChessPiece;
-import chess.Color;
+import Board_Layer.Board;
+import Board_Layer.Position;
+import Chess_Layer.ChessPiece;
+import Chess_Layer.Color;
 
 public class Rook extends ChessPiece {
 
